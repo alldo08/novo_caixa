@@ -1,0 +1,37 @@
+
+                    Volte Sempre!!!
+---------------------------------------------------------------------------
+                         Relação Vendas - 19112024
+                
+Hora: 03:12:55  Cartao:  R$:0.0  Pix: R$:0.0  Dinheiro  R$:1000.0
+
+Hora: 03:13:49  Cartao:  R$:0.0  Pix: R$:0.0  Dinheiro  R$:1000.0
+
+Hora: 03:16:48  Cartao:  R$:0.0  Pix: R$:0.0  Dinheiro  R$:500.0
+
+Hora: 04:56:58  Cartao:  R$:0.0  Pix: R$:0.0  Dinheiro  R$:0.0
+
+Hora: 05:51:46  Cartao:  R$:0.0  Pix: R$:0.0  Dinheiro  R$:0.0
+
+Hora: 05:52:35  Cartao:  R$:0.0  Pix: R$:0.0  Dinheiro  R$:0.0
+
+Hora: 17:05:47  Cartao:  R$:0.0  Pix: R$:0.0  Dinheiro  R$:0.0
+
+Hora: 17:27:43  Cartao:  R$:0.0  Pix: R$:0.0  Dinheiro  R$:200.0
+
+Hora: 17:28:19  Cartao:  R$:0.0  Pix: R$:0.0  Dinheiro  R$:500.0
+
+Hora: 17:29:10  Cartao:  R$:150.0  Pix: R$:0.0  Dinheiro  R$:0.0
+
+Hora: 17:33:49  Cartao:  R$:0.0  Pix: R$:0.0  Dinheiro  R$:3000.0
+
+Hora: 17:44:03  Cartao:  R$:0.0  Pix: R$:0.0  Dinheiro  R$:300.0
+
+Hora: 17:52:05  Cartao:  R$:0.0  Pix: R$:0.0  Dinheiro  R$:150.0
+
+Hora: 17:52:33  Cartao:  R$:0.0  Pix: R$:0.0  Dinheiro  R$:150.0
+
+Hora: 17:54:22  Cartao:  R$:0.0  Pix: R$:0.0  Dinheiro  R$:150.0
+
+ Total Cartão: R$ 150.0  Total Pix: R$ 0.0  Total Dinheiro: R$ 6950.0 
+ Venda Total: R$ 4750.0
